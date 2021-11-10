@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html;charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title>학과 테이블</title>
+<script type = "text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+<script type = "text/javascript">
+	function insertPopup(){
+		$("#deptid").val("");
+		window.open("","pop","width=480, height=280");
+		$("#popupForm").attr("action","/department/selectDepartment.do");
+		$("#popupForm").attr("target","pop");
+		$("#popupForm").submit();
+	}
+	
+	function updatePopup(deptid){
+		$("#deptid").val(deptid);
+		window.open("","pop","width=480,height=280");
+		
+	}
+</head>
+<body>
+<h1>
+	Hello world!  
+</h1>
+
+<P>  The time on the server is ${serverTime}. </P>
+</body>
+</html>

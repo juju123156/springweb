@@ -1,0 +1,5 @@
+package com.study.exam.controller;
+
+public class LoginController {
+
+}

@@ -1,0 +1,5 @@
+package com.springmybatis.board.dao;
+
+public class BoardDAO {
+
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="springboard"/>
+<aop-project name="springWebMVC"/>
+<aop-project name="springStudy"/>
+<aop-project name="SpringMyBatis"/>
+<aop-project name="DevProject"/>
+<aop-project name="springExam"/>
+<aop-project name="SpringMyBatisExam"/>
+</aop-reference-model>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/juju123156/springweb.git"/>
+		<item value="https://github.com//github.com/juju123156/springweb.git"/>
+		<item value="https://github.comhttps//github.com/juju123156/springweb.git"/>
+		<item value="https://github.com/https://github.com/juju123156/springweb.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="a &lt;a@DESKTOP-0K2HAPF&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="a &lt;a@DESKTOP-0K2HAPF&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\springproject\workspace\springweb\.git">
+			<item value="false"/>
+			<item value="a &lt;a@DESKTOP-0K2HAPF&gt;"/>
+			<item value="깃테스트입니다."/>
+			<item value="a &lt;a@DESKTOP-0K2HAPF&gt;"/>
+			<item value="f6593b87fa7ef5273e7781bccefa065414d4d134"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

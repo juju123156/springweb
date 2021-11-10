@@ -1,0 +1,5 @@
+package com.study.exam.vo;
+
+public class UserVO {
+
+}
